@@ -1,0 +1,12 @@
+{
+  "validity": true,
+  "validity_details": "Passed all structural checks.",
+  "metrics": {
+    "MSE": 0.08908866031024122,
+    "RMSE": 0.2984772358325526,
+    "MAE": 0.23826498800577323,
+    "Pearson_R": 0.9136873045467804,
+    "R2_Score": 0.8348228559721163
+  },
+  "final_score": 89.0
+}
